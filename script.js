@@ -18,4 +18,4 @@ function getclock() {
 
 
 const repeat = setInterval(getclock,1000);
-
+getclock();
